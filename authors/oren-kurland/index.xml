@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oren Kurland | Binsheng Liu</title>
+    <link>/authors/oren-kurland/</link>
+      <atom:link href="/authors/oren-kurland/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oren Kurland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 Binsheng Liu</copyright><lastBuildDate>Wed, 02 Oct 2019 14:35:20 +1000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Oren Kurland</title>
+      <link>/authors/oren-kurland/</link>
+    </image>
+    
+    <item>
+      <title>A Comparative Analysis of Human and Automatic Query Variants</title>
+      <link>/publication/lclkc19-ictir/</link>
+      <pubDate>Wed, 02 Oct 2019 14:35:20 +1000</pubDate>
+      <guid>/publication/lclkc19-ictir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Search Effectiveness with Field-Based Relevance Modeling</title>
+      <link>/publication/llkc18-adcs/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/llkc18-adcs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

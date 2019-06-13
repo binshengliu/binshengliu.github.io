@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binsheng Liu</title>
+    <link>/authors/binsheng-liu/</link>
+      <atom:link href="/authors/binsheng-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Binsheng Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 Binsheng Liu</copyright><lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Binsheng Liu</title>
+      <link>/authors/binsheng-liu/</link>
+    </image>
+    
+    <item>
+      <title>Generalizing Discriminative Retrieval Models using Generative Tasks</title>
+      <link>/publication/lzlc21-www/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/lzlc21-www/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparative Analysis of Human and Automatic Query Variants</title>
+      <link>/publication/lclkc19-ictir/</link>
+      <pubDate>Wed, 02 Oct 2019 14:35:20 +1000</pubDate>
+      <guid>/publication/lclkc19-ictir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Query Variations To Learned Relevance Modeling</title>
+      <link>/publication/liu19-sigir/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/liu19-sigir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Search Effectiveness with Field-Based Relevance Modeling</title>
+      <link>/publication/llkc18-adcs/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/llkc18-adcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMIT at the 2018 TREC CORE Track</title>
+      <link>/publication/rmit2018-trec/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rmit2018-trec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

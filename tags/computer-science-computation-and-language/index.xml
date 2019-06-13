@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science - Computation and Language | Binsheng Liu</title>
+    <link>/tags/computer-science-computation-and-language/</link>
+      <atom:link href="/tags/computer-science-computation-and-language/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science - Computation and Language</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 Binsheng Liu</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Computer Science - Computation and Language</title>
+      <link>/tags/computer-science-computation-and-language/</link>
+    </image>
+    
+    <item>
+      <title>From Query Variations To Learned Relevance Modeling</title>
+      <link>/publication/liu19-sigir/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/liu19-sigir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
