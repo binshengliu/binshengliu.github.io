@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science - Computation and Language | Binsheng Liu</title>
+    <link>/tag/computer-science-computation-and-language/</link>
+      <atom:link href="/tag/computer-science-computation-and-language/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science - Computation and Language</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu2aec2953da30b3b7a3a03d36768cc65f_43679_512x512_fill_lanczos_center_3.png</url>
+      <title>Computer Science - Computation and Language</title>
+      <link>/tag/computer-science-computation-and-language/</link>
+    </image>
+    
+    <item>
+      <title>From Query Variations To Learned Relevance Modeling</title>
+      <link></link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

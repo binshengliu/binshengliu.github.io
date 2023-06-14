@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binsheng Liu</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Binsheng Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu2aec2953da30b3b7a3a03d36768cc65f_43679_512x512_fill_lanczos_center_3.png</url>
+      <title>Binsheng Liu</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Entropy-Based Query Performance Prediction for Neural Information Retrieval Systems</title>
+      <link></link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strong Natural Language Query Generation</title>
+      <link></link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizing Discriminative Retrieval Models using Generative Tasks</title>
+      <link></link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMIT at TREC Deep Learning Track 2020</title>
+      <link></link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparative Analysis of Human and Automatic Query Variants</title>
+      <link></link>
+      <pubDate>Wed, 02 Oct 2019 14:35:20 +1000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Query Variations To Learned Relevance Modeling</title>
+      <link></link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Search Effectiveness with Field-Based Relevance Modeling</title>
+      <link></link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMIT at the 2018 TREC CORE Track</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/lbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/lbs/</guid>
+      <description>&lt;p&gt;I am a machine learning engineer in a search team at Canva. My background
+includes a PhD in Computer Science focused on Information Retrieval and Deep
+Learning. I worked as a data scientist in the search team at SEEK and a
+file-system software engineer at Huawei.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

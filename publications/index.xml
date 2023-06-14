@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Binsheng Liu</title>
+    <link>/publications/</link>
+      <atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu2aec2953da30b3b7a3a03d36768cc65f_43679_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>/publications/</link>
+    </image>
+    
+    <item>
+      <title>Entropy-Based Query Performance Prediction for Neural Information Retrieval Systems</title>
+      <link></link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strong Natural Language Query Generation</title>
+      <link></link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizing Discriminative Retrieval Models using Generative Tasks</title>
+      <link></link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMIT at TREC Deep Learning Track 2020</title>
+      <link></link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparative Analysis of Human and Automatic Query Variants</title>
+      <link></link>
+      <pubDate>Wed, 02 Oct 2019 14:35:20 +1000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Query Variations To Learned Relevance Modeling</title>
+      <link></link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Search Effectiveness with Field-Based Relevance Modeling</title>
+      <link></link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMIT at the 2018 TREC CORE Track</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
